@@ -1,7 +1,7 @@
 /* General Style */
-body {background: url('../../t/824/1.png') center repeat-y #889d00; margin:0px; padding:0px; text-align: center;}
-#wrap {width: 900px; text-align: center; margin-left: auto; margin-right: auto; background: url('../../t/824/2.png') repeat-y;}
-#contanier {width: 900px; text-align: left; margin-left: auto; margin-right: auto; background: url('../../t/824/3.jpg') no-repeat;}
+body {background: url('t/824/1.png') center repeat-y #889d00; margin:0px; padding:0px; text-align: center;}
+#wrap {width: 900px; text-align: center; margin-left: auto; margin-right: auto; background: url('t/824/2.png') repeat-y;}
+#contanier {width: 900px; text-align: left; margin-left: auto; margin-right: auto; background: url('t/824/3.jpg') no-repeat;}
 #header {height: 235px; text-align: left;}
 #logo {float: left; width: 280px; height: 170px; position: relative; top: 20px; left: 40px; text-align: center; color: #cacfb6;}
 #logo h1 {margin: 20px 10px; font-size: 25pt; font-weight: normal; color: #f6f7f0;}
@@ -13,7 +13,7 @@ body {background: url('../../t/824/1.png') center repeat-y #889d00; margin:0px; 
 table.main-table {border: 0px; padding: 0px; border-collapse: collapse; width: 820px; margin: 0px 40px; border-spacing: 0px;}
 td.content-block {vertical-align: top; padding: 15px;}
 td.side-block {width: 210px; vertical-align: top; padding-top: 10px;}
-#footer {background: url('../../t/824/4.png') bottom no-repeat; padding: 20px 250px 25px 40px; text-align: center;}
+#footer {background: url('t/824/4.png') bottom no-repeat; padding: 20px 250px 25px 40px; text-align: center;}
 
 .boxTable {width:100%;margin:3px 0px;text-align:center; border-top: 3px solid #bacc43; border-bottom: 3px solid #ced88f; padding: 0px; border-collapse: collapse; border-spacing: 0px;}
 .menuTable {width:100%;margin:3px 0px;text-align:center;border-collapse: collapse; border-spacing: 0px;}
@@ -48,7 +48,7 @@ a.menu1:link {text-decoration:underline; color:#ecefda}
 a.menu1:active {text-decoration:underline; color:#ecefda}
 a.menu1:visited {text-decoration:underline; color:#ecefda}
 a.menu1:hover {text-decoration:underline; color:#DBDCBE}
-.menuTd {padding-left:12px;padding-right:10px; background: url('../../t/824/5.gif') no-repeat 0px 3px;}
+.menuTd {padding-left:12px;padding-right:10px; background: url('t/824/5.gif') no-repeat 0px 3px;}
 
 .mframe {border-left:1px solid #E5E7EA; border-right:1px solid #E5E7EA;}
 .colgray {border-right:1px solid #E5E7EA;}
@@ -58,7 +58,7 @@ a.menu1:hover {text-decoration:underline; color:#DBDCBE}
 
 /* Menus */
 ul.uz, ul.uMenuRoot {list-style: none; margin: 0 0 0 0; padding-left: 0px;}
-li.menus {margin: 0; padding: 0 0 0 10px; background: url('../../t/824/6.gif') left center no-repeat; margin-bottom: .6em;}
+li.menus {margin: 0; padding: 0 0 0 10px; background: url('t/824/6.gif') left center no-repeat; margin-bottom: .6em;}
 /* ----- */
 
 /* Site Menus */
@@ -80,7 +80,7 @@ li.menus {margin: 0; padding: 0 0 0 10px; background: url('../../t/824/6.gif') l
 /* --------- */
 
 /* Module Part Menu */
-.catsTd {padding: 0 0 0px 10px; background: url('../../t/824/6.gif') left center no-repeat;}
+.catsTd {padding: 0 0 0px 10px; background: url('t/824/6.gif') left center no-repeat;}
 .catName {font-family: Tahoma, Verdana, Arial, sans-serif;font-size:10pt;}
 .catNameActive {font-family: Tahoma, Verdana, Arial, sans-serif;font-size:11px;}
 .catNumData {font-size:9pt;color:#6E6E6E;}
@@ -111,7 +111,7 @@ a.catNameActive:active {text-decoration:none; color:#000000;}
 
 .eRating {font-size:9pt;}
 
-.eAttach {margin: 16px 0 0 0; padding: 0 0 0 15px; background: url('../../t/824/7.gif') no-repeat 0px 0px;}
+.eAttach {margin: 16px 0 0 0; padding: 0 0 0 15px; background: url('t/824/7.gif') no-repeat 0px 0px;}
 /* ------------- */
 
 /* Entry Manage Table */
@@ -152,7 +152,7 @@ a.catNameActive:active {text-decoration:none; color:#000000;}
 
 /* Archive Menu */
 .archUl {list-style: none; margin:0; padding-left:0;}
-.archLi {padding: 0 0 3px 10px; background: url('../../t/824/8.gif') no-repeat 0px 4px; font-family: Tahoma, Verdana, Arial, sans-serif;}
+.archLi {padding: 0 0 3px 10px; background: url('t/824/8.gif') no-repeat 0px 4px; font-family: Tahoma, Verdana, Arial, sans-serif;}
 a.archLink:link {text-decoration:underline; color:#6E6E6E;}
 a.archLink:visited {text-decoration:underline; color:#6E6E6E;}
 a.archLink:hover {text-decoration:none; color:#000000;}
@@ -163,7 +163,7 @@ a.archLink:active {text-decoration:none; color:#000000;}
 .archiveCalendars {text-align:center;color:#0000FF;}
 .archiveDateTitle {font-weight:bold;color:#6E6E6E;padding-top:15px;}
 .archEntryHr {width:250px;color:#cbcebc;}
-.archiveeTitle li {margin-left: 15px; padding: 0 0 0 15px; background: url('../../t/824/9.gif') no-repeat 0px 4px; margin-bottom: .6em;}
+.archiveeTitle li {margin-left: 15px; padding: 0 0 0 15px; background: url('t/824/9.gif') no-repeat 0px 4px; margin-bottom: .6em;}
 .archiveEntryTime {width:65px;font-style:italic;}
 .archiveEntryComms {font-size:9px;color:#C3C3C3;}
 a.archiveDateTitleLink:link {text-decoration:none; color:#6E6E6E}
@@ -176,9 +176,9 @@ a.archiveDateTitleLink:active {text-decoration:underline; color:#6E6E6E}
 /* Calendar Style */
 .calTable {margin-left: auto; margin-right: auto;}
 .calMonth {}
-.calWday {color:#FFFFFF;background:url('../../t/824/10.gif') #87A303;width:18px;}
-.calWdaySe {color:#000000;background:url('../../t/824/10.gif') #87A303;width:18px;}
-.calWdaySu {color:#000000;background:url('../../t/824/10.gif') #87A303;width:18px; font-weight:bold;}
+.calWday {color:#FFFFFF;background:url('t/824/10.gif') #87A303;width:18px;}
+.calWdaySe {color:#000000;background:url('t/824/10.gif') #87A303;width:18px;}
+.calWdaySu {color:#000000;background:url('t/824/10.gif') #87A303;width:18px; font-weight:bold;}
 .calMday {color:#000000;}
 .calMdayA {background:#FCFF97;font-weight:bold;}
 .calMdayIs {background:#EBEE8D;color:#24613E;font-weight:bold;font-size:12pt;}
@@ -215,7 +215,7 @@ a.groupVerify:link,a.groupVerify:visited,a.groupVerify:hover {color:green;}
 
 /* General forum Table View */
 .gTable {background:#cbcebc;}
-.gTableTop {padding:2px;background:url('../../t/824/10.gif') #87A303;text-align:center;color:#FFFFFF;font-weight:bold;height:28px;font-size:10pt;}
+.gTableTop {padding:2px;background:url('t/824/10.gif') #87A303;text-align:center;color:#FFFFFF;font-weight:bold;height:28px;font-size:10pt;}
 .gTableSubTop {padding:2px;background:#D9DC82;color:#000000;height:20px;font-size:10px;}
 .gTableBody {padding:2px;background:#ecefda;}
 .gTableBody1 {padding:2px;background:#FFFFFF;}
@@ -344,16 +344,16 @@ a.threadLink:active {text-decoration:underline; color:#000000;}
 /* forum AllInOne Fast Add */
 .newThreadBlock {background: #F9F9F9;border: 1px solid #B2B2B2;}
 .newPollBlock {background: #F9F9F9;border: 1px solid #B2B2B2;}
-.newThreadItem {padding: 0 0 0 8px; background: url('../../t/824/11.gif') no-repeat 0px 4px;}
-.newPollItem {padding: 0 0 0 8px; background: url('../../t/824/11.gif') no-repeat 0px 4px;}
+.newThreadItem {padding: 0 0 0 8px; background: url('t/824/11.gif') no-repeat 0px 4px;}
+.newPollItem {padding: 0 0 0 8px; background: url('t/824/11.gif') no-repeat 0px 4px;}
 /* ----------------------- */
 
 /* forum Post Form */
-.loginButton, .pollBut, .searchSbmFl, .commSbmFl, .signButton {font-size:9pt;background:url('../../t/824/10.gif') #87A303;border:1px outset #6E6E6E;}
+.loginButton, .pollBut, .searchSbmFl, .commSbmFl, .signButton {font-size:9pt;background:url('t/824/10.gif') #87A303;border:1px outset #6E6E6E;}
 .searchQueryFl {width:200px !important;}
 
-.codeButtons {font-size:9pt;background:url('../../t/824/10.gif') #87A303;border:1px outset #6E6E6E;}
-.codeCloseAll {font-size:9pt; color:#6E6E6E;font-weight:bold;background:url('../../t/824/10.gif') #87A303;border:1px solid #6E6E6E;}
+.codeButtons {font-size:9pt;background:url('t/824/10.gif') #87A303;border:1px outset #6E6E6E;}
+.codeCloseAll {font-size:9pt; color:#6E6E6E;font-weight:bold;background:url('t/824/10.gif') #87A303;border:1px solid #6E6E6E;}
 .postNameFl,.postDescrFl {background:#FCFCFC;border:1px solid #6E6E6E;width:400px}
 .postPollFl,.postQuestionFl {background:#FCFCFC;border:1px solid #6E6E6E;width:400px}
 .postResultFl {background:#FCFCFC;border:1px solid #6E6E6E;width:50px}
